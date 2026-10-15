@@ -1,6 +1,6 @@
 {
-    "version": "2.6.2",
-    "download_url": "https://github.com/toshiki-kido/my-nas-hub/releases/download/v2.6.2/MyNASHub_Setup.exe",
-    "release_notes": "v2.6.2の変更点:\n- Markdown（.md）ファイルのプレビューに対応\n- .md ファイルをアップロードできるように変更",
+    "version": "2.6.3",
+    "download_url": "https://github.com/toshiki-kido/my-nas-hub/releases/download/v2.6.3/MyNASHub_Setup.exe",
+    "release_notes": "v2.6.3の変更点:\n- 長いファイル名を省略せずに折り返して表示（スマホでも最後まで読める）\n- プレビュー画面の上部にファイル名を全文表示\n- MP3などの音声ファイルに音声アイコンを表示し、プレビューで再生できるように",
     "release_date": "2026-10-16"
 }
