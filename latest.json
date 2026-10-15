@@ -1,6 +1,6 @@
 {
-    "version": "2.6.1",
-    "download_url": "https://github.com/toshiki-kido/my-nas-hub/releases/download/v2.6.1/MyNASHub_Setup.exe",
-    "release_notes": "v2.6.1の変更点:\n- 更新の確認先を新しいGitHubリポジトリに変更\n- 今より新しい版があるときだけ更新を通知するように修正（古い版に戻る問題を修正）\n\nv2.6.0の変更点:\n- Tailscale連携（VPN経由のアクセス・Funnelによる公開URL）\n- ネットワークドライブの割り当て（ドライブ文字の変更・オン/オフ）",
-    "release_date": "2026-10-15"
+    "version": "2.6.2",
+    "download_url": "https://github.com/toshiki-kido/my-nas-hub/releases/download/v2.6.2/MyNASHub_Setup.exe",
+    "release_notes": "v2.6.2の変更点:\n- Markdown（.md）ファイルのプレビューに対応\n- .md ファイルをアップロードできるように変更",
+    "release_date": "2026-10-16"
 }
