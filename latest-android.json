@@ -1,6 +1,6 @@
 {
-    "version": "1.5.0",
-    "download_url": "https://github.com/toshiki-kido/my-nas-hub/releases/download/android-v1.5.0/MyNASHub-Android-1.5.0.apk",
-    "release_notes": "Android版 v1.5.0の変更点:\n- 「問題を報告」を追加。運営からの返信をアプリ内で確認できます\n- 運営からのお知らせを表示\n- 不具合の修正のため、操作の回数とエラーの種類を匿名で送信（ファイル名・中身・フォルダの場所・パスワード・公開URLは送りません。設定でOFFにできます）\n- この端末のデータを運営から削除するボタンを追加",
+    "version": "1.5.1",
+    "download_url": "https://github.com/toshiki-kido/my-nas-hub/releases/download/android-v1.5.1/MyNASHub-Android-1.5.1.apk",
+    "release_notes": "Android版 v1.5.1の変更点:\n- 不正な利用を防ぐため、外への公開を始めるときに、運営による利用停止の対象でないかを確認するように",
     "release_date": "2026-10-20"
 }
