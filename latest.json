@@ -1,6 +1,6 @@
 {
-    "version": "2.6.6",
-    "download_url": "https://github.com/toshiki-kido/my-nas-hub/releases/download/v2.6.6/MyNASHub_Setup.exe",
-    "release_notes": "v2.6.6の変更点:\n- インストール先を「C:\\Program Files (x86)\\My NAS Hub」に修正（以前は別アプリと同じIDのため、違うフォルダに入ることがありました）\n- 古い場所に入っていたMy NAS Hubのファイルを自動で片付け\n- 設定・パスワードはそのまま引き継がれます",
+    "version": "2.7.0",
+    "download_url": "https://github.com/toshiki-kido/my-nas-hub/releases/download/v2.7.0/MyNASHub_Setup.exe",
+    "release_notes": "v2.7.0の変更点:\n- 「問題を報告」を追加。運営からの返信をアプリ内で確認できます\n- 運営からのお知らせを表示\n- 不具合の修正のため、操作の回数とエラーの種類を匿名で送信（ファイル名・中身・フォルダの場所・パスワード・公開URLは送りません。設定でOFFにできます）\n- この端末のデータを運営から削除するボタンを追加",
     "release_date": "2026-10-20"
 }
