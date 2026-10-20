@@ -1,6 +1,6 @@
 {
-    "version": "2.6.5",
-    "download_url": "https://github.com/toshiki-kido/my-nas-hub/releases/download/v2.6.5/MyNASHub_Setup.exe",
-    "release_notes": "v2.6.5の変更点:\n- パスワード保護を追加（ON/OFF切り替え）。Cloudflare公開URL・Tailscale Funnelから開くとパスワードが必要に\n- Wi-Fi・Tailscale（VPN）接続でもパスワードを求める設定を追加\n- 5回間違えると1分間ロック\n- メール設定・更新などの管理操作を、NASにしているPCの画面からだけに制限（安全性の向上）",
+    "version": "2.6.6",
+    "download_url": "https://github.com/toshiki-kido/my-nas-hub/releases/download/v2.6.6/MyNASHub_Setup.exe",
+    "release_notes": "v2.6.6の変更点:\n- インストール先を「C:\\Program Files (x86)\\My NAS Hub」に修正（以前は別アプリと同じIDのため、違うフォルダに入ることがありました）\n- 古い場所に入っていたMy NAS Hubのファイルを自動で片付け\n- 設定・パスワードはそのまま引き継がれます",
     "release_date": "2026-10-20"
 }
