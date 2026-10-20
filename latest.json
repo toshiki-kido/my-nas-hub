@@ -1,6 +1,6 @@
 {
-    "version": "2.7.1",
-    "download_url": "https://github.com/toshiki-kido/my-nas-hub/releases/download/v2.7.1/MyNASHub_Setup.exe",
-    "release_notes": "v2.7.1の変更点:\n- 一部のパソコンで、運営への送信（利用状況・エラー・問題の報告・お知らせ）ができなかった問題を修正\n- アプリを閉じるときに、まだ送っていない分を送るように",
+    "version": "2.7.2",
+    "download_url": "https://github.com/toshiki-kido/my-nas-hub/releases/download/v2.7.2/MyNASHub_Setup.exe",
+    "release_notes": "v2.7.2の変更点:\n- 一部のパソコンで、運営への送信（利用状況・エラー・問題の報告・お知らせ）ができなかった問題を修正\n- アプリを閉じるときに、まだ送っていない分を送るように\n- 不正な利用を防ぐため、外への公開を始めるときに、運営による利用停止の対象でないかを確認するように",
     "release_date": "2026-10-20"
 }
