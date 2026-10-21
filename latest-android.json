@@ -1,6 +1,6 @@
 {
-    "version": "1.5.1",
-    "download_url": "https://github.com/toshiki-kido/my-nas-hub/releases/download/android-v1.5.1/MyNASHub-Android-1.5.1.apk",
-    "release_notes": "Android版 v1.5.1の変更点:\n- 不正な利用を防ぐため、外への公開を始めるときに、運営による利用停止の対象でないかを確認するように",
-    "release_date": "2026-10-20"
+    "version": "1.5.2",
+    "download_url": "https://github.com/toshiki-kido/my-nas-hub/releases/download/android-v1.5.2/MyNASHub-Android-1.5.2.apk",
+    "release_notes": "Android版 v1.5.2の変更点:\n- 公開URLへの不審なアクセス（パスワードの入力ミスの連続、保存フォルダの外を狙ったアクセスなど）を見張り、画面に注意を表示\n- 外に公開している間だけ、運営に公開中であることを知らせるように（公開URL・ファイル名は送りません）\n- 外への公開を始めるときに、運営による利用停止の対象でないかを確認するように",
+    "release_date": "2026-10-21"
 }
